@@ -1,5 +1,7 @@
 ![Ironhack logo](https://i.imgur.com/1QgrNNw.png)
 
+# repo cloned by jmarsal 
+
 # Lab | Resolving Git Conflicts
 
 ## Introduction
